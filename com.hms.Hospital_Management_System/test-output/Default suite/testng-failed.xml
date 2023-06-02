@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.hms.Hospital_Management_System2.HMSTestCaseTest">
+        <methods>
+          <include name="config_AM"/>
+          <include name="adminLogin"/>
+          <include name="config_BM"/>
+          <include name="config_BC"/>
+          <include name="config_BS"/>
+          <include name="config_AC"/>
+          <include name="config_AS"/>
+        </methods>
+      </class> <!-- com.hms.Hospital_Management_System2.HMSTestCaseTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

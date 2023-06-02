@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	  <groups>
+		  <run>
+			  <include name="smokeTest"></include>
+			  <include name="regTest"></include>
+		  </run>
+	  </groups>
+	 <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.hms.Hospital_Management_System.ExecutionWithBaseClass.Admin"/>
+      <class name="com.hms.Hospital_Management_System.ExecutionWithBaseClass.CreateDoctorSpecialization"/>
+      <class name="com.hms.Hospital_Management_System.ExecutionWithBaseClass.DoctorLogIn"/>
+      <class name="com.hms.Hospital_Management_System2.UpdateDoctor"/>
+      <class name="com.hms.Hospital_Management_System2.HMSTestCaseTest"/>
+      <class name="com.hms.Hospital_Management_System.ExecutionWithBaseClass.BookAppointmentCancelAppointment"/>
+      <class name="com.hms.Hospital_Management_System2.PatientLogIn"/>
+      <class name="com.hms.Hospital_Management_System2.DoctorVarification"/>
+      <class name="com.hms.Hospital_Management_System.ExecutionWithBaseClass.CreateDoctorAndBookingAppointment"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

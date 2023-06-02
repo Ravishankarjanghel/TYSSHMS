@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" thread-count="2">
+	<test name="EdgeBrowser">
+		
+		<classes>
+			<!-- <class name="com.hms.Hospital_Management_System2.HMSTestCaseTest" />-->
+			<class name="com.hms.Hospital_Management_System2.UpdateDoctor" />
+		</classes>
+	</test>
+	<test name="ChromeBrowser">
+		<!--<parameter name="browser" value="chrome"></parameter>-->
+		<classes>
+			<class name="com.hms.Hospital_Management_System2.PatientLogIn" />
+			<class name="com.hms.Hospital_Management_System2.DoctorVarification" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

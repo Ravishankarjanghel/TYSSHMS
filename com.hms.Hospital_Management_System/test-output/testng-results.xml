@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="12" passed="10" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Hospital_Management_System web applications home page is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Admin Login page is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Admin dashboard page is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Passed.]]>
+    </line>
+    <line>
+      <![CDATA[Hospital_Management_System web applications home page is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Booking appionment is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Hospital_Management_System web applications home page is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Test case passed]]>
+    </line>
+    <line>
+      <![CDATA[Hospital_Management_System web applications home page is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Admin Login page is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Admin dashboard page is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Doctors specialization page is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Doctor Specialization added successfully. and message have came.]]>
+    </line>
+    <line>
+      <![CDATA[Doctor Specialization added successfully. Showing On the List of Specialization.]]>
+    </line>
+    <line>
+      <![CDATA[Add doctor page is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Test case passed]]>
+    </line>
+    <line>
+      <![CDATA[Hospital_Management_System web applications home page is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Admin Login page is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Admin dashboard page is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Doctors specialization page is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Doctor Specialization added successfully. and message have came.]]>
+    </line>
+    <line>
+      <![CDATA[Doctor Specialization added successfully. Showing On the List of Specialization.]]>
+    </line>
+    <line>
+      <![CDATA[Add doctor page is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Alert has came. Doctor Added successfully.]]>
+    </line>
+    <line>
+      <![CDATA[Hospital_Management_System web applications home page is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Patient login page is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Test case passed]]>
+    </line>
+    <line>
+      <![CDATA[Hospital_Management_System web applications home page is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Test case passed.]]>
+    </line>
+    <line>
+      <![CDATA[Hospital_Management_System web applications home page is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Testcase passed.]]>
+    </line>
+    <line>
+      <![CDATA[Hospital_Management_System web applications home page is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Edit doctor page is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Test case passed.]]>
+    </line>
+    <line>
+      <![CDATA[Hospital_Management_System web applications home page is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Edit doctor page is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Test case passed.]]>
+    </line>
+    <line>
+      <![CDATA[Hospital_Management_System web applications home page is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Testcase passed.]]>
+    </line>
+    <line>
+      <![CDATA[Hospital_Management_System web applications home page is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[Edit doctor page is displayed.]]>
+    </line>
+    <line>
+      <![CDATA[TestCase passed.]]>
+    </line>
+    <line>
+      <![CDATA[--DataBase Disconnected.--]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-05-30T10:18:37 IST" name="Suite" finished-at="2023-05-30T10:19:03 IST" duration-ms="25794">
+    <groups>
+      <group name="regTest">
+        <method signature="DoctorVarification.doctorVarification()[pri:0, instance:com.hms.Hospital_Management_System2.DoctorVarification@54d9d12d]" name="doctorVarification" class="com.hms.Hospital_Management_System2.DoctorVarification"/>
+        <method signature="PatientLogIn.patientLogIn()[pri:0, instance:com.hms.Hospital_Management_System2.PatientLogIn@3c41ed1d]" name="patientLogIn" class="com.hms.Hospital_Management_System2.PatientLogIn"/>
+      </group> <!-- regTest -->
+    </groups>
+    <test started-at="2023-05-30T10:18:37 IST" name="EdgeBrowser" finished-at="2023-05-30T10:18:55 IST" duration-ms="18105">
+      <class name="com.hms.Hospital_Management_System2.UpdateDoctor">
+        <test-method signature="updateDoctor()[pri:0, instance:com.hms.Hospital_Management_System2.UpdateDoctor@4c583ecf]" started-at="2023-05-30T10:18:52 IST" name="updateDoctor" finished-at="2023-05-30T10:18:55 IST" duration-ms="3330" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Hospital_Management_System web applications home page is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Edit doctor page is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Test case passed.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- updateDoctor -->
+      </class> <!-- com.hms.Hospital_Management_System2.UpdateDoctor -->
+      <class name="com.hms.Hospital_Management_System2.HMSTestCaseTest">
+        <test-method is-config="true" signature="config_BC(java.lang.String)[pri:0, instance:com.hms.Hospital_Management_System2.HMSTestCaseTest@2a4fb17b]" started-at="2023-05-30T10:18:37 IST" name="config_BC" finished-at="2023-05-30T10:18:39 IST" duration-ms="2154" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_BC -->
+        <test-method is-config="true" signature="config_BM()[pri:0, instance:com.hms.Hospital_Management_System2.HMSTestCaseTest@2a4fb17b]" started-at="2023-05-30T10:18:39 IST" name="config_BM" finished-at="2023-05-30T10:18:39 IST" duration-ms="205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_BM -->
+        <test-method signature="adminLogin()[pri:0, instance:com.hms.Hospital_Management_System2.HMSTestCaseTest@2a4fb17b]" started-at="2023-05-30T10:18:39 IST" name="adminLogin" finished-at="2023-05-30T10:18:40 IST" duration-ms="785" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Hospital_Management_System web applications home page is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Admin Login page is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Admin dashboard page is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Test Case Passed.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- adminLogin -->
+        <test-method is-config="true" signature="config_AM()[pri:0, instance:com.hms.Hospital_Management_System2.HMSTestCaseTest@2a4fb17b]" started-at="2023-05-30T10:18:40 IST" name="config_AM" finished-at="2023-05-30T10:18:40 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_AM -->
+        <test-method is-config="true" signature="config_BM()[pri:0, instance:com.hms.Hospital_Management_System2.HMSTestCaseTest@2a4fb17b]" started-at="2023-05-30T10:18:40 IST" name="config_BM" finished-at="2023-05-30T10:18:40 IST" duration-ms="78" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_BM -->
+        <test-method signature="bookAppointmentCancelAppointment()[pri:0, instance:com.hms.Hospital_Management_System2.HMSTestCaseTest@2a4fb17b]" started-at="2023-05-30T10:18:40 IST" name="bookAppointmentCancelAppointment" finished-at="2023-05-30T10:18:43 IST" duration-ms="2567" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Hospital_Management_System web applications home page is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Booking appionment is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Hospital_Management_System web applications home page is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Test case passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- bookAppointmentCancelAppointment -->
+        <test-method is-config="true" signature="config_BM()[pri:0, instance:com.hms.Hospital_Management_System2.HMSTestCaseTest@2a4fb17b]" started-at="2023-05-30T10:18:43 IST" name="config_BM" finished-at="2023-05-30T10:18:43 IST" duration-ms="45" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_BM -->
+        <test-method is-config="true" signature="config_AM()[pri:0, instance:com.hms.Hospital_Management_System2.HMSTestCaseTest@2a4fb17b]" started-at="2023-05-30T10:18:43 IST" name="config_AM" finished-at="2023-05-30T10:18:43 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_AM -->
+        <test-method signature="createDoctor()[pri:0, instance:com.hms.Hospital_Management_System2.HMSTestCaseTest@2a4fb17b]" started-at="2023-05-30T10:18:43 IST" name="createDoctor" finished-at="2023-05-30T10:18:45 IST" duration-ms="2131" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Hospital_Management_System web applications home page is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Admin Login page is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Admin dashboard page is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Doctors specialization page is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Doctor Specialization added successfully. and message have came.]]>
+            </line>
+            <line>
+              <![CDATA[Doctor Specialization added successfully. Showing On the List of Specialization.]]>
+            </line>
+            <line>
+              <![CDATA[Add doctor page is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Test case passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createDoctor -->
+        <test-method is-config="true" signature="config_AM()[pri:0, instance:com.hms.Hospital_Management_System2.HMSTestCaseTest@2a4fb17b]" started-at="2023-05-30T10:18:45 IST" name="config_AM" finished-at="2023-05-30T10:18:45 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_AM -->
+        <test-method is-config="true" signature="config_BM()[pri:0, instance:com.hms.Hospital_Management_System2.HMSTestCaseTest@2a4fb17b]" started-at="2023-05-30T10:18:45 IST" name="config_BM" finished-at="2023-05-30T10:18:45 IST" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_BM -->
+        <test-method signature="createDoctorAndBookingAppointment()[pri:0, instance:com.hms.Hospital_Management_System2.HMSTestCaseTest@2a4fb17b]" started-at="2023-05-30T10:18:45 IST" name="createDoctorAndBookingAppointment" finished-at="2023-05-30T10:18:49 IST" duration-ms="3968" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Hospital_Management_System web applications home page is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Admin Login page is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Admin dashboard page is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Doctors specialization page is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Doctor Specialization added successfully. and message have came.]]>
+            </line>
+            <line>
+              <![CDATA[Doctor Specialization added successfully. Showing On the List of Specialization.]]>
+            </line>
+            <line>
+              <![CDATA[Add doctor page is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Alert has came. Doctor Added successfully.]]>
+            </line>
+            <line>
+              <![CDATA[Hospital_Management_System web applications home page is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Patient login page is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Test case passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createDoctorAndBookingAppointment -->
+        <test-method is-config="true" signature="config_AM()[pri:0, instance:com.hms.Hospital_Management_System2.HMSTestCaseTest@2a4fb17b]" started-at="2023-05-30T10:18:49 IST" name="config_AM" finished-at="2023-05-30T10:18:49 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_AM -->
+        <test-method is-config="true" signature="config_BM()[pri:0, instance:com.hms.Hospital_Management_System2.HMSTestCaseTest@2a4fb17b]" started-at="2023-05-30T10:18:49 IST" name="config_BM" finished-at="2023-05-30T10:18:49 IST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_BM -->
+        <test-method signature="doctorLogIn()[pri:0, instance:com.hms.Hospital_Management_System2.HMSTestCaseTest@2a4fb17b]" started-at="2023-05-30T10:18:49 IST" name="doctorLogIn" finished-at="2023-05-30T10:18:50 IST" duration-ms="898" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Hospital_Management_System web applications home page is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Test case passed.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- doctorLogIn -->
+        <test-method is-config="true" signature="config_AM()[pri:0, instance:com.hms.Hospital_Management_System2.HMSTestCaseTest@2a4fb17b]" started-at="2023-05-30T10:18:50 IST" name="config_AM" finished-at="2023-05-30T10:18:50 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_AM -->
+        <test-method is-config="true" signature="config_BM()[pri:0, instance:com.hms.Hospital_Management_System2.HMSTestCaseTest@2a4fb17b]" started-at="2023-05-30T10:18:50 IST" name="config_BM" finished-at="2023-05-30T10:18:50 IST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_BM -->
+        <test-method signature="patientLogIn()[pri:0, instance:com.hms.Hospital_Management_System2.HMSTestCaseTest@2a4fb17b]" started-at="2023-05-30T10:18:50 IST" name="patientLogIn" finished-at="2023-05-30T10:18:50 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Hospital_Management_System web applications home page is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Testcase passed.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- patientLogIn -->
+        <test-method is-config="true" signature="config_AM()[pri:0, instance:com.hms.Hospital_Management_System2.HMSTestCaseTest@2a4fb17b]" started-at="2023-05-30T10:18:50 IST" name="config_AM" finished-at="2023-05-30T10:18:50 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_AM -->
+        <test-method is-config="true" signature="config_BM()[pri:0, instance:com.hms.Hospital_Management_System2.HMSTestCaseTest@2a4fb17b]" started-at="2023-05-30T10:18:50 IST" name="config_BM" finished-at="2023-05-30T10:18:50 IST" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_BM -->
+        <test-method signature="updateDoctor()[pri:0, instance:com.hms.Hospital_Management_System2.HMSTestCaseTest@2a4fb17b]" started-at="2023-05-30T10:18:50 IST" name="updateDoctor" finished-at="2023-05-30T10:18:51 IST" duration-ms="1492" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Hospital_Management_System web applications home page is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Edit doctor page is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Test case passed.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- updateDoctor -->
+        <test-method is-config="true" signature="config_AM()[pri:0, instance:com.hms.Hospital_Management_System2.HMSTestCaseTest@2a4fb17b]" started-at="2023-05-30T10:18:51 IST" name="config_AM" finished-at="2023-05-30T10:18:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_AM -->
+        <test-method is-config="true" signature="config_AC()[pri:0, instance:com.hms.Hospital_Management_System2.HMSTestCaseTest@2a4fb17b]" started-at="2023-05-30T10:18:51 IST" name="config_AC" finished-at="2023-05-30T10:18:52 IST" duration-ms="234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_AC -->
+      </class> <!-- com.hms.Hospital_Management_System2.HMSTestCaseTest -->
+    </test> <!-- EdgeBrowser -->
+    <test started-at="2023-05-30T10:18:55 IST" name="ChromeBrowser" finished-at="2023-05-30T10:19:03 IST" duration-ms="7671">
+      <class name="com.hms.Hospital_Management_System2.DoctorVarification">
+        <test-method is-config="true" signature="config_BC(java.lang.String)[pri:0, instance:com.hms.Hospital_Management_System2.DoctorVarification@54d9d12d]" started-at="2023-05-30T10:18:59 IST" name="config_BC" finished-at="2023-05-30T10:19:00 IST" duration-ms="1467" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_BC -->
+        <test-method is-config="true" signature="config_BM()[pri:0, instance:com.hms.Hospital_Management_System2.DoctorVarification@54d9d12d]" started-at="2023-05-30T10:19:00 IST" name="config_BM" finished-at="2023-05-30T10:19:00 IST" duration-ms="166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_BM -->
+        <test-method signature="doctorVarification()[pri:0, instance:com.hms.Hospital_Management_System2.DoctorVarification@54d9d12d]" started-at="2023-05-30T10:19:00 IST" name="doctorVarification" finished-at="2023-05-30T10:19:03 IST" duration-ms="2403" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Hospital_Management_System web applications home page is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Edit doctor page is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[TestCase passed.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- doctorVarification -->
+        <test-method is-config="true" signature="config_AM()[pri:0, instance:com.hms.Hospital_Management_System2.DoctorVarification@54d9d12d]" started-at="2023-05-30T10:19:03 IST" name="config_AM" finished-at="2023-05-30T10:19:03 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_AM -->
+        <test-method is-config="true" signature="config_AC()[pri:0, instance:com.hms.Hospital_Management_System2.DoctorVarification@54d9d12d]" started-at="2023-05-30T10:19:03 IST" name="config_AC" finished-at="2023-05-30T10:19:03 IST" duration-ms="134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_AC -->
+      </class> <!-- com.hms.Hospital_Management_System2.DoctorVarification -->
+      <class name="com.hms.Hospital_Management_System2.PatientLogIn">
+        <test-method is-config="true" signature="config_BS()[pri:0, instance:com.hms.Hospital_Management_System2.PatientLogIn@3c41ed1d]" started-at="2023-05-30T10:18:37 IST" name="config_BS" finished-at="2023-05-30T10:18:37 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_BS -->
+        <test-method is-config="true" signature="config_BC(java.lang.String)[pri:0, instance:com.hms.Hospital_Management_System2.PatientLogIn@3c41ed1d]" started-at="2023-05-30T10:18:55 IST" name="config_BC" finished-at="2023-05-30T10:18:56 IST" duration-ms="1415" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_BC -->
+        <test-method is-config="true" signature="config_BM()[pri:0, instance:com.hms.Hospital_Management_System2.PatientLogIn@3c41ed1d]" started-at="2023-05-30T10:18:56 IST" name="config_BM" finished-at="2023-05-30T10:18:57 IST" duration-ms="206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_BM -->
+        <test-method signature="patientLogIn()[pri:0, instance:com.hms.Hospital_Management_System2.PatientLogIn@3c41ed1d]" started-at="2023-05-30T10:18:57 IST" name="patientLogIn" finished-at="2023-05-30T10:18:58 IST" duration-ms="1745" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Hospital_Management_System web applications home page is displayed.]]>
+            </line>
+            <line>
+              <![CDATA[Testcase passed.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- patientLogIn -->
+        <test-method is-config="true" signature="config_AM()[pri:0, instance:com.hms.Hospital_Management_System2.PatientLogIn@3c41ed1d]" started-at="2023-05-30T10:18:58 IST" name="config_AM" finished-at="2023-05-30T10:18:58 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_AM -->
+        <test-method is-config="true" signature="config_AC()[pri:0, instance:com.hms.Hospital_Management_System2.PatientLogIn@3c41ed1d]" started-at="2023-05-30T10:18:58 IST" name="config_AC" finished-at="2023-05-30T10:18:59 IST" duration-ms="122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config_AC -->
+        <test-method is-config="true" signature="config_AS()[pri:0, instance:com.hms.Hospital_Management_System2.PatientLogIn@3c41ed1d]" started-at="2023-05-30T10:19:03 IST" name="config_AS" finished-at="2023-05-30T10:19:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[--DataBase Disconnected.--]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- config_AS -->
+      </class> <!-- com.hms.Hospital_Management_System2.PatientLogIn -->
+    </test> <!-- ChromeBrowser -->
+  </suite> <!-- Suite -->
+</testng-results>
