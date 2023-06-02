@@ -25,7 +25,8 @@ public class BaseClass {
 
 	
 	@BeforeSuite
-	public void config_BS() {
+	public void config_BS() throws InterruptedException {
+		Thread.sleep(60000);
 		System.out.println("-- DataBase is connected.--");
 	}
 
